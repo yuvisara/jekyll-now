@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+```Learn something about everything and everything about something.  -T.X.Huxley```
 
-### More Information
+I am still trying to find my everything something :) . This site is to collect all the short cuts and methods that I found from internet and by doing and what worked for me.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hope this helps others as well.
