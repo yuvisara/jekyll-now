@@ -3,7 +3,7 @@ layout: post
 title: SVN Cheat Sheet
 ---
 
-Subversion(svn) is a software version control system which works by consistent common repository. Local copy of the repository can be checked out and changes to the local copy are considered temporary. And if commited it is updated in the common respository. Each commit is given a unique and incremental revision id. Similar to branches at top level there is trunks which is organised like a folder structure. One can checkout, and commit only a local folder by giving the appropriate url. Whole repository need not be checkout which is great. 
+Subversion(svn) is a version control software which works by maintaining a consistent common repository. Local copy of the repository can be checked out and changes to the local copy are considered temporary. And if commited it is updated in the common respository. Each commit is given a unique and incremental revision id. Similar to branches at top level there is trunks which is organised like a folder structure. One can checkout, and commit only a local folder by giving the appropriate url. Whole repository need not be checkout which is great. 
 
 Note: changes are permanent and need to make another commit to revert the changes.
 
